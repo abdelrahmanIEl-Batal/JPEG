@@ -1,5 +1,3 @@
 # JPEG
-
-[![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanIEl-Batal)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanIEl-Batal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+This program does JPEG compression to images based on explanation found in the attached Lectures.
 
